@@ -1,4 +1,4 @@
-a=65
+a=65  #use 97 for small letter alphabet
 for i in range(7):
     for j in range(i+1):
         print(chr(a),end= ' ')
